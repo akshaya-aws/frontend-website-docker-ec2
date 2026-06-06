@@ -1,3 +1,1 @@
-function showMessage() {
-    alert("Welcome to our website!");
-}
+console.log("Website Loaded");
